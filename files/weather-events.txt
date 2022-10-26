@@ -1,0 +1,1 @@
+{"id":1,"city":"CPH","temp":"12","unit":"C","receivedTime":"Wed Oct 26 20:02:00 CEST 2022"}{"id":1,"city":"Quito","temp":"21","unit":"C","receivedTime":"Wed Oct 26 20:03:21 CEST 2022"}
